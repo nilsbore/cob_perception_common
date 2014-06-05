@@ -1,0 +1,3 @@
+Put the file in
+
+/home/user/.ros/cob_people_detection/files/training_data/rdata_color.xml
